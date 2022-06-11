@@ -1,0 +1,8 @@
+C:\curso\ModaMediaMediana\ModaMediaMediana\bin\Debug\ModaMediaMediana.exe.config
+C:\curso\ModaMediaMediana\ModaMediaMediana\bin\Debug\ModaMediaMediana.exe
+C:\curso\ModaMediaMediana\ModaMediaMediana\bin\Debug\ModaMediaMediana.pdb
+C:\curso\ModaMediaMediana\ModaMediaMediana\obj\Debug\ModaMediaMediana.csproj.AssemblyReference.cache
+C:\curso\ModaMediaMediana\ModaMediaMediana\obj\Debug\ModaMediaMediana.csproj.SuggestedBindingRedirects.cache
+C:\curso\ModaMediaMediana\ModaMediaMediana\obj\Debug\ModaMediaMediana.csproj.CoreCompileInputs.cache
+C:\curso\ModaMediaMediana\ModaMediaMediana\obj\Debug\ModaMediaMediana.exe
+C:\curso\ModaMediaMediana\ModaMediaMediana\obj\Debug\ModaMediaMediana.pdb
